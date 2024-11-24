@@ -1,0 +1,27 @@
+Simple Calculator
+Description
+This is a simple calculator application written in C that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+Requirements
+- C compiler (e.g., gcc)
+
+Instructions to Run the Calculator
+1. Compile the code:
+   gcc calculator.c -o calculator
+2. Run the executable:
+   ./calculator
+
+Git Commands Used
+- `git init`: Initialize a new Git repository.
+- `git add <file>`: Add files to the staging area.
+- `git commit -m "message"`: Commit changes to the repository.
+- `git branch <branchname>`: Create a new branch.
+- `git checkout <branchname>`: Switch to the specified branch.
+- `git merge <branchname>`: Merge the specified branch into the current branch.
+- `git push`: Push the local repository to the remote repository.
+- `git pull`: Fetch and merge changes from the remote repository.
+
+Authors
+Coder: RazaJavaid2004
+Documentation Specialist: RazaJavaid2004
+Version Control Specialist: RazaJavaid2004
